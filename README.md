@@ -20,7 +20,7 @@ use numbervine\sweetalert2\SweetAlert2Asset;
 SweetAlert2Asset::register($this);
 ```
 
-use in Javascript as per Sweetalert2 docs
+use in Javascript as per SweetAlert2 docs
 
 ```javascript
 swal("Hello!");
