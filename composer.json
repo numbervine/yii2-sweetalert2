@@ -1,0 +1,25 @@
+{
+    "name": "numbervine/yii2-sweetalert2",
+    "description": "A wrapper to include sweetalert2 assets in yii2 application",
+    "keywords": ["yii2", "wrapper", "sweetalert2"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomas Varghese",
+            "email": "numbervine.public@gmail.com"
+        }
+    ],
+    "require": {
+      "bower-asset/sweetalert2": "*"
+    },
+    "support": {
+        "issues": "https://github.com/numbervine/yii2-sweetalert2/issues?state=open",
+        "source": "https://github.com/numbervine/yii2-sweetalert2"
+    },
+    "autoload": {
+        "psr-4": {
+            "numbervine\\sweetalert2\\": ""
+        }
+    }
+}
