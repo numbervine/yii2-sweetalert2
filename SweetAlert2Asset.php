@@ -1,4 +1,9 @@
 <?php
+/**
+ * @license Copyright 2017 Thomas Varghese, MIT License
+ * see https://github.com/numbervine/yii2-sweetalert2/blob/master/LICENSE
+ */
+
 namespace numbervine\sweetalert2;
 
 use yii\web\AssetBundle;
