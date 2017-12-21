@@ -13,7 +13,7 @@ class SweetAlert2Asset extends AssetBundle
   public $sourcePath = '@vendor/bower/sweetalert2/dist/';
 
   public $css = [
-    'sweetalert2.all.min.css'
+    'sweetalert2.min.css'
   ];
 
   public $js = [
